@@ -7,7 +7,7 @@ Download **/dompdf** folder and move it to **/system/helpers** folder.<br />
 Download and upload **dompdf_helper.php** file to **/system/helpers**.<br />
 
 
-<br />
+
 ## Use the given code in controller
 
     $this->load->helper(array('dompdf', 'file'));
